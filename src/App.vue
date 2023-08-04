@@ -3,8 +3,8 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <div>
     <h1>CI CD 构建成功</h1>
+  <div>
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
     </a>
